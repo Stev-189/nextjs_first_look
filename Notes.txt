@@ -1,0 +1,11 @@
+next 
+npm init -y
+npm install next react react-dom
+
+package.json (a)
+"scripts": {
+   "dev":"next",
+   "build":"next build",
+   "start": "next start",
+   
+npm install --save isomorphic-fetch es6-promise
